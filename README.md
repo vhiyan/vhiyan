@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Embedded Systems Developer including hardware design, Microcontroller firmware development, PLC, and FPGA.
+I'm Embedded Systems Developer including hardware design, Microcontroller firmware development, PLC, and FPGA.
  
-## 🔭 I’m currently working on ...
+### 🔭 I’m currently working on ...
 work as a software engineer including creating services on Linux/Windows platform
 
 Have Worked in: 
