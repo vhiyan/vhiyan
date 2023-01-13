@@ -31,7 +31,7 @@ Operating System Familiar With:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhiyan&layout=compact)](https://github.com/vhiyan)
+[![Top Langs](https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=vhiyan&layout=compact)](https://github.com/vhiyan)
 
 <!--
 **vhiyan/vhiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
